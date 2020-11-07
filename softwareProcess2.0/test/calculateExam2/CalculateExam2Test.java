@@ -1,4 +1,4 @@
-package calculateExam2;
+C4C4C4package calculateExam2;
 
 import static org.junit.Assert.assertTrue;
 

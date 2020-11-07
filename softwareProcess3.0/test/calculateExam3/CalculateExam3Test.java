@@ -1,4 +1,4 @@
-package calculateExam3;
+C4C4C4package calculateExam3;
 
 import static org.junit.Assert.*;
 
